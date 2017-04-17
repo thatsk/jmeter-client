@@ -1,4 +1,4 @@
-FROM alpine/jmeter-server:v1
+FROM thatsk/jmeter-base:v2
 
 MAINTAINER thatsk
 
